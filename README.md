@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="image.svg" alt="Vishal Jatti" />
+</h1>
 
-<!--
-**NeonX26/NeonX26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey! 👋
+I'm Vishal, a 23 years old web developer.
 
-Here are some ideas to get you started:
+<!-- - 🦔 Founder of [ArConnect](https://arconnect.io) Arweave Wallet -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Pusing the MCA at Government College of Engineering Ch Sambhaji Nagar
+
+
+- 👥 A part of Web Development team member at [@LiGHT Samvedna](https://lightsamvedna.geca.ac.in/)
+
+- 🧭 Front End Developer.
+
++ a lot more ;)
+
+## Skills
+- 👨‍💻 HTML, JavaScript, Python, Java, etc...
+- ⚙️ React, BootStrap
+- 👁️ SASS, CSS
+- 💽 MySQL, SQL, Mongo
+- a lot more :D
+
+## Contact
+- [ LinkedIn ](https://www.linkedin.com/in/vishal-jatti/) 
+- [Github](https://github.com/NeonX26)
+- [Intagram](https://www.instagram.com/v9xh4l/)
