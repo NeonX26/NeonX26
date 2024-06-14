@@ -24,7 +24,5 @@ I'm Vishal, a 23 years old web developer.
 - a lot more :D
 
 ## Contact
-- [ LinkedIn ](https://www.linkedin.com/in/vishal-jatti/) 
-- [Github](https://github.com/NeonX26)
-- [Intagram](https://www.instagram.com/v9xh4l/)
-- [Email](jattivishal419@gmail.com)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-jatti/)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/v9xh4l/)
