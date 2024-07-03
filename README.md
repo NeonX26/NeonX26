@@ -7,7 +7,7 @@ I'm Vishal, a 23 years old web developer.
 
 <!-- - 🦔 Founder of [ArConnect](https://arconnect.io) Arweave Wallet -->
 
-- 👨‍💻 Pusing the MCA at Government College of Engineering Ch Sambhaji Nagar
+- 👨‍💻 Pursing the MCA at Government College of Engineering Ch Sambhaji Nagar
 
 
 - 👥 A part of Web Development team member at [@LiGHT Samvedna](https://lightsamvedna.geca.ac.in/)
