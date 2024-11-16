@@ -5,22 +5,19 @@
 ## Hey! 👋
 I'm Vishal, a 23 years old web developer.
 
-<!-- - 🦔 Founder of [ArConnect](https://arconnect.io) Arweave Wallet -->
-
 - 👨‍💻 Pursing the MCA at Government College of Engineering Ch Sambhaji Nagar
 
 
-- 👥 A part of Web Development team member at [@LiGHT Samvedna](https://lightsamvedna.geca.ac.in/)
+- 👥 Team Head of Web Content team at [@LiGHT Samvedna](https://lightsamvedna.geca.ac.in/) GECCS
 
 - 🧭 Front End Developer.
 
 + a lot more ;)
 
 ## 🚀 Skills
-- 👨‍💻 HTML, JavaScript, Python, Java, etc...
-- ⚙️ React, BootStrap
-- 👁️ SASS, CSS
-- 💽 MySQL, SQL, Mongo
+- 👨‍💻 HTML, JavaScript,
+- ⚙️ BootStrap, Tailwind
+- 👁️ CSS
 - a lot more :D
 
 ## 📲 Contact
@@ -42,4 +39,4 @@ I'm Vishal, a 23 years old web developer.
 <div align="center">
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=NeonX26&show_icons=true&theme=dark&locale=en&layout=compact" alt="NeonX26" />
 </p>
-  </div>
+</div>
