@@ -27,7 +27,9 @@ I'm Vishal, a 23 years old web developer.
    <a href="https://www.instagram.com/v9xh4l"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://t.me/NeonX26"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </div>
-
+<div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=NeonX26&label=Profile%20views&color=0e75b6&style=flat" alt="NeonX26" /> </p>
+</div>
 <h3 align="left">📊 GitHub Activity:</h3>
 <table>
   <tr>
