@@ -30,15 +30,4 @@ I'm Vishal, a 23 years old web developer.
 <div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NeonX26&label=Profile%20views&color=0e75b6&style=flat" alt="NeonX26" /> </p>
 </div>
-<h3 align="left">📊 GitHub Activity:</h3>
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=NeonX26&show_icons=true&theme=dark&locale=en" alt="NeonX26" /></td>
-<!--     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NeonX26&theme=dark" alt="NeonX26" /></td> -->
-  </tr>
-</table>
 
-<div align="center">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=NeonX26&show_icons=true&theme=dark&locale=en&layout=compact" alt="NeonX26" />
-</p>
-</div>
