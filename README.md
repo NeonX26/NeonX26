@@ -34,7 +34,7 @@ I'm Vishal, a 23 years old web developer.
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=NeonX26&show_icons=true&theme=dark&locale=en" alt="NeonX26" /></td>
-    <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NeonX26&theme=dark" alt="NeonX26" /></td>
+<!--     <td><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NeonX26&theme=dark" alt="NeonX26" /></td> -->
   </tr>
 </table>
 
