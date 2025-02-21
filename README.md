@@ -3,10 +3,11 @@
 </h1>
 
 ## Hey! 👋
-I'm Vishal, a 23 years old web developer.
+I'm Vishal, a 24 years old web developer.
 
 - 👨‍💻 Pursing the MCA at Government College of Engineering Ch Sambhaji Nagar
 
+- 🧭 Front End Developer Intern @Hosted Minds 
 
 - 👥 Team Head of Web Content team at [@LiGHT Samvedna](https://lightsamvedna.geca.ac.in/) GECCS
 
@@ -15,9 +16,9 @@ I'm Vishal, a 23 years old web developer.
 + a lot more ;)
 
 ## 🚀 Skills
-- 👨‍💻 HTML, JavaScript,
-- ⚙️ BootStrap, Tailwind
-- 👁️ CSS
+- 👨‍💻 HTML,JavaScript,ReactJS
+- ⚙️ NodeJs,JSON,JQuery
+- 👁️ CSS,BootStrap,Tailwind,Material UI,Modular CSS
 - a lot more :D
 
 ## 📲 Contact
