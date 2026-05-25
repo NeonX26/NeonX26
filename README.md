@@ -3,22 +3,17 @@
 </h1>
 
 ## Hey! 👋
-I'm Vishal, a 24 years old web developer.
+I'm Vishal, a 25 years old Software developer.
 
 - 👨‍💻 Completed MCA at Government College of Engineering Ch Sambhaji Nagar
 
-- 🧭 Front End Developer Intern [@HostedMinds](https://hostedminds.com/)
+- 🧭 Full Stack Develoeper at [@Enercog](https://enercog.com/)
 
-- 👥 Team Head of Web Content team at [@LiGHT Samvedna](https://lightsamvedna.geca.ac.in/) GECCS
-
-- 🧭 Front End Developer.
-
-+ a lot more ;)
 
 # 📲 Contact
 <div align="left">
   <a href="https://www.linkedin.com/in/vishal-jatti/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:jattivishal419@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:dev.nexonx@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
    <a href="https://www.instagram.com/v9xh4l"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://t.me/NeonX26"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </div>
@@ -30,6 +25,8 @@ I'm Vishal, a 24 years old web developer.
 ![](https://github-readme-stats.vercel.app/api?username=NeonX26&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NeonX26&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)</br>
 ![](https://nirzak-streak-stats.vercel.app/?user=NeonX26&theme=transparent&hide_border=true)
+
+[![roadmap.sh](https://roadmap.sh/card/tall/6a11421811fa913c06a3065a?variant=dark&roadmaps=)](https://roadmap.sh)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NeonX26&theme=radical&no-frame=false&no-bg=false&margin-w=4)
