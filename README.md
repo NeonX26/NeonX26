@@ -24,6 +24,7 @@ I'm Vishal, a 25 years old Software developer.
 
 
 [![roadmap.sh](https://roadmap.sh/card/tall/6a11421811fa913c06a3065a?variant=dark&roadmaps=)](https://roadmap.sh)
+<a href="https://app.daily.dev/neonx26"><img src="https://api.daily.dev/devcards/v2/9H0ACh9aCaxjg2n97uYXY.png?r=mbg&type=default" width="280" alt="Vishal's Dev Card"/></a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NeonX26&theme=radical&no-frame=false&no-bg=false&margin-w=4)
